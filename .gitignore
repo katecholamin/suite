@@ -21,3 +21,4 @@ geoserver/webapp/proxy.json
 /build_output.txt
 /artifacts
 *~
+/composer
